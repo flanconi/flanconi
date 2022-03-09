@@ -1,6 +1,6 @@
 ### Olá, meu nome é Maria Fernanda!🌻 
 
-(Maria Fernanda - LinkedIn)[https://www.linkedin.com/in/maria-fernanda-lanconi/]
+[Maria Fernanda - Linkedin](https://www.linkedin.com/in/maria-fernanda-lanconi/)
 
 About me
 👩🏻‍💻 I'm a Mobile Developer! 📱
