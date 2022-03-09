@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, meu nome é Maria Fernanda!🌻 
 
-<!--
-**flanconi/flanconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Maria Fernanda - LinkedIn)[https://www.linkedin.com/in/maria-fernanda-lanconi/]
 
-Here are some ideas to get you started:
+About me
+👩🏻‍💻 I'm a Mobile Developer! 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📃 Besides that, I'm a minimalist and curious person, passionate about technology, investment and financial education. These aspects of my personality inspired me to developed my own blog where I write and share many contents regarding these subjects. My main goal is to positively impact our society and the technological community out there, that is why I also like to participate in Technology Lives on Youtube and Talks as a speaker 👩🏻‍🎤.
+
+Knowledge
+Languages JavaScript TypeScript 
+
+Front-end  HTML5 CSS3 React Styled-components
+
+Others Technologies Nodejs 
+
+Database MySQL 
+
+Versioning and Communication Git GitHub Discord Slack
+
