@@ -3,7 +3,7 @@
 <h4>Contato 📧 </h4>
 <a href='https://www.linkedin.com/in/maria-fernanda-lanconi/'>Maria Fernanda - Linkedin</a>
 
-<h1>About me👩</h1>
+<h1>Sobre mim👩</h1>
 <p>Desenvolvedora Front-end Jr. em progresso para me tornar FullStack, em paralelo aos meus estudos em tecnologia sou graduanda de Processos Químicos.</p>
 <h1> Conhecimento 👩‍💻</h1> 
 
