@@ -3,18 +3,16 @@
 [Maria Fernanda - Linkedin](https://www.linkedin.com/in/maria-fernanda-lanconi/)
 
 About me
-👩🏻‍💻 I'm a Mobile Developer! 📱
 
-📃 Besides that, I'm a minimalist and curious person, passionate about technology, investment and financial education. These aspects of my personality inspired me to developed my own blog where I write and share many contents regarding these subjects. My main goal is to positively impact our society and the technological community out there, that is why I also like to participate in Technology Lives on Youtube and Talks as a speaker 👩🏻‍🎤.
+<h1> Knowledge Languages and Technologies </h1> 
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
+https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 
-<h1> Knowledge Languages </h1> 
-<img src="https://img.shields.io/static/v1?label=v16.13.1&message=React&color=7159c1&style=for-the-badge"/> JavaScript TypeScript 
-
-Front-end  HTML5 CSS3 React Styled-components
-
-Others Technologies Nodejs 
-
-Database MySQL 
-
-Versioning and Communication Git GitHub Discord Slack
 
